@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+  var w = screen.width / 2;
+  var h = screen.height;
+  window.open('https://stockcharts.com/freecharts/pnf.php?c=!GT50IBB,PWUADANCNO%5BPA%5D%5BD%5D%5BF1!3!2.0!!2!20%5D', '_blank', 'width='+w+',height='+h+',left=0,top=0');
+  window.open('https://stockcharts.com/freecharts/pnf.php?c=xbi,P', '_blank', 'width='+w+',height='+h+',left='+w+',top=0');
+</script>
+</body>
+</html>
